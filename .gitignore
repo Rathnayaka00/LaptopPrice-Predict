@@ -1,0 +1,53 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+.Python
+*.pyo
+*.pyd
+*.pyc
+pip-log.txt
+
+# Logs
+logs
+*.log
+*.log.*
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build files
+dist/
+build/
+coverage/
+*.out
+*.lock
+
+# Generated files
+*.swp
+*.bak
+*.tmp
+*.orig
+
+# Git LFS
+*.lfs
